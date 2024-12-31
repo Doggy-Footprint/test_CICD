@@ -1,0 +1,5 @@
+# python
+test_cicd_venv/
+**/__pycache__/
+.pytest_cache/
+
